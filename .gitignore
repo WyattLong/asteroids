@@ -8,6 +8,7 @@ wheels/
 game_state.jsonl
 game_events.jsonl
 .python-version
+.vscode
 
 # Virtual environments
 .venv
